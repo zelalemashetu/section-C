@@ -1,7 +1,7 @@
 # @AASTU
 # ELECTROMECHANICAL ENGINEERING
 # Third year
-# Pyton course
+# Python course
 # section-C
 # Zelalem Ashetu ETS 1507/15
 
