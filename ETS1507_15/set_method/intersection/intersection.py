@@ -3,4 +3,6 @@ y = {"google", "microsoft", "apple"}
 
 z = x.intersection(y)
 
-print(z) # returns { "apple"}
+print(z) # returns { "apple"} 
+# OR
+print(x & y)
